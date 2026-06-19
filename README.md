@@ -1,1 +1,1 @@
-# gabbitaumeshchandra-HealthAI-Intelligent-Healthcare-Assistant-Using-IBM-Granite
+# Muzammillshaik-HealthAI-Intelligent-Healthcare-Assistant-Using-IBM-Granite
